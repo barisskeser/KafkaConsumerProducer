@@ -27,5 +27,9 @@ Go to same path with docker-compose.yml file and run that command;
 $ docker-compose up
 ```
 After that you can send a post request with to "localhost:8080/user"
-<img align="center" src="/images/postman.png" alt="Post Request" />
-<img align="center" src="/images/intellij_out.png" alt="Example Output" />
+<p>
+<img align="center" src="/images/postman.PNG" alt="Post Request" />
+</p>
+<p>
+<img align="center" src="/images/intellij_out.PNG" alt="Example Output" />
+</p>
